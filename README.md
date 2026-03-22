@@ -1,6 +1,12 @@
 # 🐍 Sistema de gestión con Python y SQLite
 
-Aplicación desarrollada en Python que permite gestionar información mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar), utilizando SQLite como base de datos.
+Aplicación desarrollada en Python que permite gestionar información mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar), utilizando SQLite como base de datos para la persistencia de datos.
+
+---
+
+## 📦 ¿Qué gestiona el sistema?
+
+El sistema permite administrar un inventario de productos, incluyendo registro, consulta, actualización y eliminación de información almacenada en una base de datos SQLite.
 
 ---
 
@@ -30,13 +36,9 @@ Aplicación desarrollada en Python que permite gestionar información mediante o
 
 ---
 
-## 🎯 Objetivo
-
-Proyecto desarrollado para aplicar lógica de programación, manejo de bases de datos y operaciones CRUD en un entorno práctico.
-
----
-
 ## 🧠 Estructura del proyecto
+
+```bash
 main.py             # Punto de entrada
 conexion_bd.py      # Conexión a la base de datos
 registrar.py        # Crear registros
@@ -49,6 +51,7 @@ utilidades.py       # Funciones auxiliares
 
 ## 📋 Requisitos
 - Python 3 instalado
+
 ## ▶️ Ejecución
 1. Clonar el repositorio:
 git clone https://github.com/tuusuario/gestion-inventario.git
