@@ -48,6 +48,7 @@ El sistema permite administrar un inventario de productos, incluyendo registro, 
 - reporte.py            # Generar reportes
 - utilidades.py         # Funciones auxiliares
 
+```
 ---
 
 ## 📋 Requisitos
