@@ -1,5 +1,4 @@
-# sistema-gestion-python-sqlite
-## 🐍 Sistema de gestión con Python y SQLite
+# 🐍 Sistema de gestión con Python y SQLite
 
 Aplicación desarrollada en Python que permite gestionar información mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar), utilizando SQLite como base de datos.
 
