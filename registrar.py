@@ -1,5 +1,5 @@
 from colorama import Fore, Style, init
-from conexionbd import conectar
+from conexion_bd import conectar
 init(autoreset=True)
 
 def registrar_producto():
