@@ -23,3 +23,14 @@ Separación de lógica para gestión de datos
 
 🎯 Objetivo:
 Proyecto desarrollado para aplicar lógica de programación, manejo de bases de datos y operaciones CRUD en un entorno real.
+
+🧠 Estructura del proyecto
+main.py             # Punto de entrada
+conexion_bd.py      # Conexión a la base de datos
+registrar.py        # Crear registros
+buscar.py           # Consultar datos
+actualizar.py       # Actualizar registros
+eliminar.py         # Eliminar registros
+visualizar.py       # Mostrar datos
+reporte.py          # Generar reportes
+utilidades.py       # Funciones auxiliares
