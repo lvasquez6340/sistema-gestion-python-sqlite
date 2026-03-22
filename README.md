@@ -49,3 +49,10 @@ visualizar.py       # Mostrar datos
 reporte.py          # Generar reportes
 utilidades.py       # Funciones auxiliares
 
+## ▶️ Ejecución
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/lvasquez6340/sistema-gestion-python-sqlite.git
+
+
