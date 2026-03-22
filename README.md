@@ -49,16 +49,3 @@ visualizar.py       # Mostrar datos
 reporte.py          # Generar reportes
 utilidades.py       # Funciones auxiliares
 
----
-
-### 📋 Requisitos
-
-- Python 3 instalado
-
-## ▶️ Ejecución
-1. Clonar el repositorio:
-git clone https://github.com/lvasquez6340/sistema-gestion-python-sqlite.git
-2. Acceder a la carpeta del proyecto:
-cd gestion-inventario
-2. Ejecutar el programa:
-python main.py
