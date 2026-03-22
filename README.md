@@ -49,5 +49,6 @@ visualizar.py       # Mostrar datos
 reporte.py          # Generar reportes
 utilidades.py       # Funciones auxiliares
 
+git clone https://github.com/lvasquez6340/sistema-gestion-python-sqlite.git
 
 
