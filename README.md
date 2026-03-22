@@ -38,7 +38,7 @@ El sistema permite administrar un inventario de productos, incluyendo registro, 
 
 ## 🧠 Estructura del proyecto
 
-```bash
+``bash
 main.py             # Punto de entrada
 conexion_bd.py      # Conexión a la base de datos
 registrar.py        # Crear registros
