@@ -50,7 +50,9 @@ reporte.py          # Generar reportes
 utilidades.py       # Funciones auxiliares
 
 ---
-## 📋 Requisitos
+
+### 📋 Requisitos
+
 - Python 3 instalado
 
 ## ▶️ Ejecución
