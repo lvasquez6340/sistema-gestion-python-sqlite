@@ -52,9 +52,7 @@ El sistema permite administrar un inventario de productos, incluyendo registro, 
 ---
 
 ## 📋 Requisitos
-
 - Python 3 instalado  
-
 ---
 
 ## ▶️ Ejecución
@@ -63,4 +61,12 @@ El sistema permite administrar un inventario de productos, incluyendo registro, 
 
 ```bash
 git clone https://github.com/lvasquez6340/sistema-gestion-python-sqlite.git
-
+```
+### 2. Acceder a la carpeta del proyecto
+```bash
+cd sistema-gestion-python-sqlite
+```
+### 3. Ejecutar el programa
+```bash
+python main.py
+```
