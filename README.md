@@ -38,22 +38,22 @@ El sistema permite administrar un inventario de productos, incluyendo registro, 
 
 ## 🧠 Estructura del proyecto
 
-main.py             # Punto de entrada
-conexion_bd.py      # Conexión a la base de datos
-registrar.py        # Crear registros
-buscar.py           # Consultar datos
-actualizar.py       # Actualizar registros
-eliminar.py         # Eliminar registros
-visualizar.py       # Mostrar datos
-reporte.py          # Generar reportes
-utilidades.py       # Funciones auxiliares
+- main.py             # Punto de entrada
+- conexion_bd.py      # Conexión a la base de datos
+- registrar.py        # Crear registros
+- buscar.py           # Consultar datos
+- actualizar.py       # Actualizar registros
+- eliminar.py         # Eliminar registros
+- visualizar.py       # Mostrar datos
+- reporte.py          # Generar reportes
+- utilidades.py       # Funciones auxiliares
 
 ## 📋 Requisitos
 - Python 3 instalado
 
 ## ▶️ Ejecución
 1. Clonar el repositorio:
-git clone https://github.com/tuusuario/gestion-inventario.git
+git clone https://github.com/lvasquez6340/sistema-gestion-python-sqlite.git
 2. Acceder a la carpeta del proyecto:
 cd gestion-inventario
 2. Ejecutar el programa:
