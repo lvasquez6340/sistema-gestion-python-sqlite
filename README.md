@@ -37,8 +37,6 @@ Proyecto desarrollado para aplicar lógica de programación, manejo de bases de 
 ---
 
 ## 🧠 Estructura del proyecto
-
-```bash
 main.py             # Punto de entrada
 conexion_bd.py      # Conexión a la base de datos
 registrar.py        # Crear registros
@@ -48,3 +46,13 @@ eliminar.py         # Eliminar registros
 visualizar.py       # Mostrar datos
 reporte.py          # Generar reportes
 utilidades.py       # Funciones auxiliares
+
+## 📋 Requisitos
+- Python 3 instalado
+## ▶️ Ejecución
+1. Clonar el repositorio:
+git clone https://github.com/tuusuario/gestion-inventario.git
+2. Acceder a la carpeta del proyecto:
+cd gestion-inventario
+2. Ejecutar el programa:
+python main.py
